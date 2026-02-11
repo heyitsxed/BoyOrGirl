@@ -1,6 +1,6 @@
 # BoyOrGirl
 
-A simple, Guess Gender app built in Swift
+A simple gender-guessing app built in Swift.
 
 ## Features
 - Type your name and the app will guess whether it is male or female.
