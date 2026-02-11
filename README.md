@@ -12,9 +12,9 @@ A simple, Guess Gender app built in Swift
 
 ## Installation
 1. Clone the repository:
-'''bash
+```bash
 git clone https://github.com/heyitsxed/BoyOrGirl
-'''
+```
 
 2. Open the project in Xcode.
 3. Build and run on the simulator or a physical device.
