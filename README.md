@@ -30,3 +30,7 @@ This app is built as a **personal / pet project** to practice app development.
 
 ## Disclaimer
 This app provides estimates based on name data and may not be 100% accurate.
+
+## API Usage
+This project uses public APIs for educational and personal project purposes only.
+All data belongs to their respective owners.
