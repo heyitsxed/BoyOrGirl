@@ -8,7 +8,7 @@ A simple gender-guessing app built in Swift.
 - Shows the percentage indicating whether the name is predominantly male or female.
 
 ## Video
-
+https://github.com/user-attachments/assets/061b451a-e225-4279-a968-9c72993a242e
 
 ## Installation
 1. Clone the repository:
